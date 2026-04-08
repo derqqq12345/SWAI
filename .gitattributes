@@ -6,3 +6,6 @@
 *.jpg linguist-vendored=true
 main.ipynb linguist-vendored=true
 
+git rm --cached main.ipynb
+git commit -m "Remove main.ipynb from tracking"
+git push origin main
