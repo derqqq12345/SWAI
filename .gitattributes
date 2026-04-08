@@ -1,3 +1,8 @@
-echo "* linguist-vendored" > .gitattributes
-echo "*.py linguist-vendored=false" >> .gitattributes
-echo "*.py linguist-language=Python" >> .gitattributes
+*.ipynb linguist-vendored=true
+*.md linguist-vendored=true
+*.yaml linguist-vendored=true
+*.csv linguist-vendored=true
+*.png linguist-vendored=true
+*.jpg linguist-vendored=true
+main.ipynb linguist-vendored=true
+
