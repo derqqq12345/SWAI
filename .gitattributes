@@ -1,0 +1,3 @@
+echo "* linguist-vendored" > .gitattributes
+echo "*.py linguist-vendored=false" >> .gitattributes
+echo "*.py linguist-language=Python" >> .gitattributes
