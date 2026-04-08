@@ -148,12 +148,19 @@ LLM 기반 상황 분석
 
 # 📂 Project Structure
 ├── dataset/
+
 ├── models/
+
 ├── train.py
+
 ├── val.py
+
 ├── inference.py
+
 ├── llm_analysis.py
+
 ├── utils/
+
 └── app/
 
 
